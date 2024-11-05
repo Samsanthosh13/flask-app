@@ -1,1 +1,2 @@
-pip install flask
+Flask==2.3.3   # Optionally specify a version, or just use Flask if no specific version is needed.
+
